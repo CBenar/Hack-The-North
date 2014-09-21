@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MainActivity</string>
+
+    <string name="app_name">SmartHome</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_control">ControlActivity</string>
+    <string name="action_settings">Settings</string>
+
 </resources>
